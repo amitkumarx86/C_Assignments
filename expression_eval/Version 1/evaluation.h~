@@ -1,0 +1,15 @@
+/*
+ * C Program to Evaluate Expression without precedence
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
+#include "evaluate.h" 
+int main(){
+    char exp[100];
+    printf("Expression P(x)=\n");
+    scanf("%s",exp);
+    evaluate(exp);
+}
