@@ -1,0 +1,1 @@
+void __optimal_change_maker(char *, int amount);
