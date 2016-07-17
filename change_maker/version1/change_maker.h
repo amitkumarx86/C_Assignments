@@ -1,0 +1,1 @@
+void change_maker(char *, int amount);
